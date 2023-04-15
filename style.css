@@ -1,0 +1,84 @@
+a {
+            color: blue;
+            text-decoration: none;
+        }
+        u {
+
+            background: linear-gradient(to bottom left, #ffffff 49%, #000000 99%);
+        }
+
+        #id1{
+            margin-left: 45%
+        }
+        body{
+            background: linear-gradient(90deg, #ffffff 31%, #000000 73%);
+            z-index: 0
+            background-color: #f9f9f9;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            z-index: 0;
+            background: white;
+            margin-top: 140px;
+            position: relative;
+            padding: 20px;
+            box-shadow: 0px 0px 10px 0px #333;
+            z-index: 0;
+            max-width: 800px;
+        }
+        img {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            width: 110px;
+            height: 110px;
+            box-shadow: 0px 0px 10px 0px #333;
+            z-index: 1;
+        }
+        h1, h2, p {
+            margin: 0;
+        }
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 3;
+            margin-bottom: 10px;
+        }
+        header {
+            margin-right: 124px;
+            margin-left: 3px;
+            margin-bottom: 690px;
+            position: absolute;
+            background-color: black;
+            color: white;
+            padding: 20px;
+            width: 803px;
+            z-index: 1;
+        }
+
+        h1 {
+             margin: 0;
+        }
+        .dd {
+            font-family: 'Bebas Neue', cursive;
+            font-family: 'Sedgwick Ave Display', cursive;
+        }
+
+        .bb{
+            font-family: 'Dancing Script', cursive;
+        }
